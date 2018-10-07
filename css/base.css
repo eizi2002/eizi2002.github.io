@@ -1,0 +1,44 @@
+﻿/* 全称セレクタ--------------------------------------------- */
+
+* {
+margin:0;padding:0;
+font:normal normal normal small/1.4 Verdana,Osaka,Chicago,sans-serif;
+border:none;
+}
+
+/* 全体指定------------------------------------------------- */
+
+body {
+color:#eeeeee;
+text-align:center;
+background:#4c4c4c;/* 全体の背景色 */
+}
+
+html {
+scrollbar-arrow-color:#eeeeee;
+scrollbar-face-color:#4c4c4c;
+scrollbar-highlight-color:#4c4c4c;
+scrollbar-3dlight-color:#4c4c4c;
+scrollbar-track-color:#4c4c4c;
+scrollbar-shadow-color:#4c4c4c;
+scrollbar-darkshadow-color:#4c4c4c;
+overflow-y:scroll;/*← IE6バグ対策(フレーム用) */
+}
+/* スクロールバー指定が不要の場合は、スクロールバーのみ削除して下さい */
+
+a{text-decoration:none;}
+a:link,a:active{color:#c4d7a0;}
+a:visited{color:#c4d7a0;}
+a:hover{color:#eeeeee;position:relative;top:1px;left:1px;}
+
+em {font-weight:bold;}/* 強調 */
+strong {font-weight:bold;border-bottom:1px solid #71cde4;}/* より強い強調 */
+del {text-decoration:line-through;}/* 削除 */
+ins {text-decoration:underline;}/* 追加 */
+
+hr {display:none;}/* ライン(非表示) */
+
+
+/* ********************************************************* */
+
+
