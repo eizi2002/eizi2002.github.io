@@ -1,0 +1,178 @@
+@import "base.css";
+
+
+/* ********************************************************* */
+/* 左フレームレイアウト */
+/* ********************************************************* */
+
+
+/* 全体 */
+#wrapper {
+width:550px;/*横幅*/
+margin:10px auto;/* autoで真ん中寄せ */
+text-align:left;
+}
+
+/* ヘッダー */
+#head {
+margin:10px 0px;
+padding:0px 10px;
+border-left:5px solid #eeeeee;/* 左のライン */
+}
+
+/* メイン */
+#text {margin:20px 0px 20px 0px;}
+
+/* フッター */
+#foot {
+padding:3px 0px 30px 0px;
+border-top:1px solid #cccccc;
+}
+
+
+/* ********************************************************* */
+/* 左フレーム詳細指定 */
+/* ********************************************************* */
+
+
+/* ヘッダー------------------------------------------------- */
+
+#head h1 {
+font-size:240%;
+font-family:impact;
+}
+
+#head h2 {
+font-size:100%;
+color:#c4d7a0;
+font-family:Tahoma,"Century Gothic",Osaka;
+margin:-8px 0px 1px 2px;
+}
+
+#head p {
+font-size:76%;
+font-family:Tahoma,"Century Gothic",Osaka;
+margin:-2px 0px 0px 2px;
+}
+
+
+/* メイン--------------------------------------------------- */
+
+#text h3,#text h4,#text h5 {
+font-size:100%;
+color:#71cde4;
+margin:5px 0px;
+}
+
+#text p {
+line-height:160%;
+margin:5px 0px 15px 0px;
+padding:10px 10px;
+border:none;
+background:#4c4c4c;
+}
+
+/* ライン有り・背景無し */
+#text .box1 {border:1px solid #cccccc;background:#3f3f3f;}
+
+/* 背景画像付き */
+#text .box2 {border:1px solid #cccccc;background:url(../img/box1.gif);}
+
+/* 背景白 */
+#text .box3 {border:1px solid #3f3f3f;color:#4c4c4c;background:#eeeeee;}
+
+
+/* イラストページ------------------------------------------- */
+
+#text .pict {border:none;background:#3f3f3f;text-align:center;}
+
+#text .img {border:1px solid #cccccc;}/*イラストに枠をつける*/
+
+
+/* 戻りリンク----------------------------------------------- */
+
+#text ul.pagetop {margin:5px 0px;text-align:right;}
+#text ul.pagetop li {display:inline;}/*横並び指定*/
+
+
+/* リスト--------------------------------------------------- */
+
+#text ul li {margin:0;list-style:circle inside;}
+
+/* 枠無し */
+#text ul.ul01 {
+margin:5px 0px 15px 0px;
+padding:10px 10px;
+}
+
+/* 枠付き */
+#text ul.ul02 {
+list-style:disc inside;
+margin:5px 0px 15px 0px;
+padding:10px 10px;
+border:1px solid #cccccc;
+background:background:#3f3f3f;
+}
+#text ul.ul02 li {list-style:disc inside;}
+
+/* 枠付き背景画像付き */
+#text ul.ul03 {
+line-height:160%;
+margin:5px 0px 15px 0px;
+padding:10px 10px;
+border:1px solid #cccccc;
+background:url(../img/box1.gif);
+}
+
+/* 説明付きリスト------------------------------------------- */
+
+#text dl {margin:0;}
+
+#text dt {
+color:#71cde4;
+font-weight:bold;
+margin:0px 0px 5px 0px;
+}
+
+#text dd {margin:0px 0px 10px 10px;}
+
+
+/* ********************************************************* */
+/* フォーム */
+/* ********************************************************* */
+
+
+form {margin:0px 0px;}
+
+input,textarea,select {
+color:#3f3f3f;
+margin:1px 0px;
+padding:1px;
+line-height:100%;
+border:1px solid #3f3f3f;
+background:#eeeeee;
+}
+
+/* 一言メルフォ用 */
+.name {width:60px;}
+.msg {width:300px;}
+.button {
+color:#eeeeee;
+border:1px solid #3f3f3f;
+background:#4c4c4c;
+}
+
+/* メルフォのサイズ */
+.input {width:230px;}
+.textarea {width:230px;height:80px;}
+.submit {
+width:234px;
+color:#eeeeee;
+border:1px solid #3f3f3f;
+background:#4c4c4c;
+}
+
+
+/* ********************************************************* */
+
+
