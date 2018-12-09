@@ -29,7 +29,7 @@ h1 {
 	margin: 64px auto 32px auto;
 	max-width: 128px;
 	border-radius: 100%;
-	#box-shadow: 0 0 0 8px #777777;
+	box-shadow: 0 0 0 8px #777777;
 }
 
 #bio {
