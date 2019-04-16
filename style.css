@@ -9,7 +9,7 @@ ul.list {
     margin-left: 0px;
     padding: 0px;
 }
- 
+
 ul.list li {
     margin: 0px;
     padding: 0px 0px 0px 12px;
@@ -21,7 +21,7 @@ img {
     box-shadow: 0 0 0 8px #6d6d6d;
 }
 
-#social-icon a {display: block;float: center;margin: 0 5px 5px 0;padding: 0;color: #c6bb80;}
-#social-icon i { width: 50px; height: 50px; margin: 0; border: 1px solid #c6bb80; border-radius: 50%; line-height: 50px; text-align: center; }
+#social-icon a {display: block;float: left;margin: 0 5px 5px 0;padding: 0;color: #ffffff;}
+#social-icon i { width: 50px; height: 50px; margin: 0; border: 1px solid #ffffff; border-radius: 50%; line-height: 50px; text-align: center; }
 #social-icon i:before { padding 0; line-height: 50px; }
 #social-icon a:hover i { background: #e1daba; }
