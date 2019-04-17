@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+		<meta name="keywords" content="eizi2002">
+		<meta name="description" content="eizi2002/Leies-profile">
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+		<meta property="og:title" content="eizi2002/Leies">
+		<meta property="og:type" content="article">
+		<meta property="og:description" content="eizi2002/Leies-profile">
+		<meta property="og:url" content="https://eizi2002.github.io/">
+		<meta property="og:image" content="https://eizi2002.github.io/logo.png">
+		<meta property="og:site_name" content="eizi2002/Leies">
+		<meta property="twitter:card" content="summary">
+		<meta property="twitter:site" content="@eizi2002">
+		<meta property="twitter:title" content="eizi2002/Leies">
+		<meta property="twitter:description" content="eizi2002/Leies-profile">
+		<meta property="twitter:image" content="https://eizi2002.github.io/logo.png">
+		<meta property="twitter:url" content="https://eizi2002.github.io/">
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel="icon" href="favicon.ico">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <meta content="ja" http-equiv="Content-Language">
+        <link href="style.css" rel="stylesheet" type="text/css">
+		<title>eizi2002/Leies</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+		<script type="text/javascript">/*設定１*/
+ 
+$(window).on('load', function(){
+  $('body').removeClass('fadeout');
+});
+ 
+ 
+/*設定２*/
+ 
+$(function() {
+  // ハッシュリンク(#)と別ウィンドウでページを開く場合はスルー
+  $('a:not([href^="#"]):not([target])').on('click', function(e){
+    e.preventDefault(); // ナビゲートをキャンセル
+    url = $(this).attr('href'); // 遷移先のURLを取得
+    if (url !== '') {
+      $('body').addClass('fadeout');  // bodyに class="fadeout"を挿入
+      setTimeout(function(){
+        window.location = url;  // 0.8秒後に取得したURLに遷移
+      }, 800);
+    }
+    return false;
+  });
+});
+</script>
+<style type="text/css">
+.auto-style1 {
+	text-align: center;
+}
+.auto-style2 {
+	vertical-align: top;
+}
+.auto-style3 {
+	font-weight: normal;
+}
+</style>
+</head>
+
+<body class="fadeout">
+<div class="auto-style1">
+<a href="index.html" title="top">top</a>
+
+</div>
