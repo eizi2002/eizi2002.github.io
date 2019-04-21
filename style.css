@@ -20,18 +20,18 @@ body::after {
  -moz- transition: opacity .8s ease;
   transition: opacity .8s ease;
 }
- 
- 
+
+
 /*body要素に.fadeoutセレクタがある場合には、レイヤーが表示されるようにopacityを１に設定します。*/
- 
+
 body.fadeout::after {
   opacity: 1;
 }
- 
- 
+
+
 /*お好みで、.fadeoutセレクタ以下の他の要素にもアニメーション用のCSSを定義します*/
 /*DEMOではページ遷移時にarticle要素のスケールもアニメーションさせています*/
- 
+
 body.fadeout article{
   -webkit-transform:scale(1.2);
   transform:scale(1.2);
@@ -116,6 +116,4 @@ details[open] summary {
 }
 a:link {
 	color: #ffffff;
-	font-size: x-large;
-
 }
