@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+		<meta name="keywords" content="ia">
+		<meta name="description" content="ia">
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+		<meta property="og:title" content="Misskey-orz-ia">
+		<meta property="og:type" content="article">
+		<meta property="og:description" content="Misskey-orz-ia">
+		<meta property="og:url" content="https://eizi2002.github.io/misskey/ia.html">
+		<meta property="og:image" content="https://eizi2002.github.io/logo.png">
+		<meta property="og:site_name" content="Misskey-orz-ia">
+		<meta property="twitter:card" content="summary">
+		<meta property="twitter:site" content="@Leies_202">
+		<meta property="twitter:title" content="Misskey-orz-ia">
+		<meta property="twitter:description" content="Misskey-orz-ia">
+		<meta property="twitter:image" content="https://eizi2002.github.io/logo.png">
+		<meta property="twitter:url" content="https://eizi2002.github.io/misskey/ia.html">
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel="icon" href="favicon.ico">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <meta content="ja" http-equiv="Content-Language">
+        <link href="style.css" rel="stylesheet" type="text/css">
+		<title>Misskey-orz-ia</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script type="text/javascript" src="konami.js"></script>
+		<script type="text/javascript">/*設定１*/
+
+$(window).on('load', function(){
+  $('body').removeClass('fadeout');
+});
+
+
+/*設定２*/
+
+$(function() {
+  // ハッシュリンク(#)と別ウィンドウでページを開く場合はスルー
+  $('a:not([href^="#"]):not([target])').on('click', function(e){
+    e.preventDefault(); // ナビゲートをキャンセル
+    url = $(this).attr('href'); // 遷移先のURLを取得
+    if (url !== '') {
+      $('body').addClass('fadeout');  // bodyに class="fadeout"を挿入
+      setTimeout(function(){
+        window.location = url;  // 0.8秒後に取得したURLに遷移
+      }, 800);
+    }
+    return false;
+  });
+});
+</script>
+<style type="text/css">
+.auto-style1 {
+	text-align: center;
+}
+.auto-style2 {
+	vertical-align: top;
+}
+.auto-style3 {
+	font-weight: normal;
+}
+</style>
+</head>
+
+<body class="fadeout">
+<div class="auto-style1">
+<h1 class="auto-style1"><img src="logo-orz.png" width="325"></h1>
+<img src="avater-ia.png" alt="avater" class="auto-style2" height="125" width="125">
+ 	<h2 class="auto-style1">Misskey-orzのAiBot(通称いあ)について</h2>
+	<p class="auto-style1">URL:<a href=https://eizi2002.orz.hm/@ia>https://eizi2002.orz.hm/@ia</a></p>
+ <h2>独自改造</h2>
+    <p class="auto-style1">めいめいリポジトリよりフォーク</p>
+    <p class="auto-style1">こっちがやった改造はセリフのみ。</p>
+	<br>
+    <h2 class="auto-style3"><strong>問題点</strong></h2>
+	<p class="auto-style1">リモートから数取りゲームに参加できない</a></p>
+	<hr>
+  <p class="auto-style1">連絡先:misskey@eizi2002.skr.jp</p>
+	<br>
+	<a href="/" color=#ffffff >Misskey-orzついてはこちら</a>
