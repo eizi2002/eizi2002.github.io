@@ -120,3 +120,16 @@ a:link {
 a:visited {
   color:#FFFFFE;
 }
+
+@font-face {
+    font-family: 'OTADESIGN';
+    src: url('OTADESIGN.ttf');
+    src: url('OTADESIGN.bmap') format('bmap'),
+         url('OTADESIGN.suit') format('suit'),
+         url('OTADESIGN.ttf') format('truetype'),
+         url('OTADESIGN.svg#webfontjSpbZQRv') format('svg');
+}
+
+i {
+    font-family: 'OTADESIGN';
+}
