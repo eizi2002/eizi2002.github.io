@@ -117,3 +117,6 @@ details[open] summary {
 a:link {
 	color: #ffffff;
 }
+a:visited {
+  color:#FFFFFE;
+}
