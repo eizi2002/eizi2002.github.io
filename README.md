@@ -14,3 +14,8 @@
 ・ついでにmisskeyについてのページも置いた
 
 ・なんだかんだで名前をレイエス(零江洲)メインにした
+
+## 著作
+eizi2002アイコン(avater.png):[真帆さん](https://twitter.com/meynico_maho)
+Leies/iaアイコン(avater2.png,misskey/avater-ia.jpeg):[ガン見してぅるメーカー](https://picrew.me/image_maker/36849)
+favicon等(favicon.ico,logo.png):光穂さん
