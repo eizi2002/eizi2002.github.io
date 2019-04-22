@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/leies_202
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://eizi2002.github.io
+  * I am leies_202 (https://keybase.io/leies_202) on keybase.
+  * I have a public key ASCfE2lYRwq8NCl6geHOVcMVr6GHiOVFNinFHeNtjN7cRgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209f136958470abc34297a81e1ce55c315afa18788e5453629c51de36d8cdedc460a",
+      "host": "keybase.io",
+      "kid": "01209f136958470abc34297a81e1ce55c315afa18788e5453629c51de36d8cdedc460a",
+      "uid": "46a4be2157838b5bb5282723ac36bd19",
+      "username": "leies_202"
+    },
+    "merkle_root": {
+      "ctime": 1555924795,
+      "hash": "0c6db21b8dbca7c3ecbabffa96e11493f1cd87a60830efa3398b7a9255865109f791cca3b6509c7ddb062ccfb1657d0f9594d6d272131d5f390926f92f92b0a6",
+      "hash_meta": "057b147dc471ee834625ee4f57dbc1ad8ae32d81cac4435cb6bd20c8db3e27c3",
+      "seqno": 5217034
+    },
+    "service": {
+      "entropy": "NGlubb/WnjUSWYSQD2S8BHt1",
+      "hostname": "eizi2002.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555924806,
+  "expire_in": 504576000,
+  "prev": "950dcec77818e571a0c5763043e3388f19b836c8c23bac5c8fe1031cb3936004",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnxNpWEcKvDQpeoHhzlXDFa+hh4jlRTYpxR3jbYze3EYKp3BheWxvYWTESpcCCMQglQ3Ox3gY5XGgxXYwQ+M4jxm4NsjCO6xcj+EDHLOTYATEIPgNDppA2xpLJnkorb1Ecw4RW1ZNbnUr3vcLjAd92B3GAgHCo3NpZ8RAZSk8ric+ox/smy0RbyQydzT/aKtNGlf6QxFtBc68R4p8SGonNggW5dAOmkzMa1lN6mW+/Dn++nU9Gy3KvPyRAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGUrO7q0m70iiTlcsGJ3ISGkgK/TwMcwL0dJwkPv2uEWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/leies_202
+
+==================================================================
