@@ -2,6 +2,7 @@
 background:#777777;
 color: #fff;
 font: normal normal normal 14px/1 FontAwesome;
+cursor: help;
 }
 
 body::after {
@@ -110,6 +111,7 @@ details[open] summary {
 }
 a:link {
 	color: #ffffff;
+	cursor: e-resize; 
 }
 a:visited {
   color:#FFFFFE;
