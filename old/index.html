@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+		<meta name="keywords" content="Leies_202,Leies,eizi2002">
+		<meta name="description" content="Leies-profile">
+		<meta property="og:title" content="Leies(eizi2002)">
+		<meta property="og:type" content="article">
+		<meta property="og:description" content="Leies(eizi2002)-profile">
+		<meta property="og:url" content="https://eizi2002.github.io/">
+		<meta property="og:image" content="https://eizi2002.github.io/logo.png">
+		<meta property="og:site_name" content="Leies">
+		<meta property="twitter:card" content="summary">
+		<meta property="twitter:site" content="@Leies_202">
+		<meta property="twitter:title" content="Leies">
+		<meta property="twitter:description" content="Leies-profile">
+		<meta property="twitter:image" content="https://eizi2002.github.io/logo.png">
+		<meta property="twitter:url" content="https://eizi2002.github.io/">
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel="icon" href="favicon.ico">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link href="style.css" rel="stylesheet" type="text/css">
+		<title>Leies</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="konami.js"></script>
+		<script>
+		/*設定１*/
+
+$(window).on('load', function(){
+  $('body').removeClass('fadeout');
+});
+
+
+/*設定２*/
+
+$(function() {
+  // ハッシュリンク(#)と別ウィンドウでページを開く場合はスルー
+  $('a:not([href^="#"]):not([target])').on('click', function(e){
+    e.preventDefault(); // ナビゲートをキャンセル
+    url = $(this).attr('href'); // 遷移先のURLを取得
+    if (url !== '') {
+      $('body').addClass('fadeout');  // bodyに class="fadeout"を挿入
+      setTimeout(function(){
+        window.location = url;  // 0.8秒後に取得したURLに遷移
+      }, 800);
+    }
+    return false;
+  });
+});
+</script>
+<style>
+.auto-style1 {
+	text-align: center;
+}
+.auto-style2 {
+	vertical-align: top;
+}
+.auto-style3 {
+	font-weight: normal;
+}
+</style>
+</head>
+
+<body class="fadeout">
+	<FORM NAME="form1">
+	<SELECT NAME="select1" onChange="if(document.form1.select1.value){location.href=document.form1.select1.value;}">
+	<option value="/">JA</option>
+	<option value="en.html">EN</option>
+	<option value="cn.html">CN</option>
+	</SELECT>
+	</FORM>
+	<a href="http://lei-202.sblo.jp/">blog(レイエス)</a> / 
+	<a href="https://eizi2002.skr.jp/">blog(eizi2002)</a> / 
+	<a href="leies.html">レイエス(ゲーム･SNS)</a> / 
+	<a href="eizi2002.html">eizi2002(創作)</a> / 
+	<a href="link.html">LINK</a> / 
+	CLAP / 
+	<a href="contact.html">contact</a><hr>
+
+
+<div class="auto-style1">
+<img src="avater2.png" alt="Leies-avater" title=”Leies-avater” class="auto-style2" height="125" width="125">
+<h1 class="auto-style1">Leies</h1>
+ 	<p class="auto-style1">そこら辺に転がってる人間</p>
+	<p class="auto-style1">ID:eizi2002,Leies等</p><br>
+
+	<h2 class="auto-style1">臨時情報</h2>
+	<p class="auto-style1">恐らく夏コミにfriends.nico(サービス終了)の同人誌が出る。そこに一言参加したのでよかったら見てほしい。</p>
+	<p class="auto-style1">無論夏コミへは私は一般参加で出る予定だ。文を書いていて気付いたが日は合うのか...?</p>
+
+    <h2 class="auto-style3"><strong>今のところやってる</strong></h2>
+	<p class="auto-style1">･自宅鯖でMisskey掘っ建て/運営</p>
+	<p class="auto-style1">･MovableType使ってブログ</p>
+	<p class="auto-style1">･申し訳程度の改造したMisskeyBot(いあ)の作成</p>
+	<br>
+	<h2 class="auto-style3"><strong>やりたい</strong></h2>
+	<p class="auto-style3">･Misskey開発へ参加(プルリクとは言わんでもissusとか)</p>
+	<p class="auto-style3">･もうちょいまともなサイト作成</p>
+	<p class="auto-style3"></p>
+	<br><br>
+	<!--<a href="page2.html" title="more" color=#ffffff >more</a>-->
+
+<h2 class="auto-style3"><strong>各SNS代表アカウント</strong></h2>
+<ul id="links">
+					<li><a href="https://twitter.com/Leies_202" title="Twitter @eizi2002" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+					<li><a href="https://misskey.io/@eizi2002/" title="Misskey @eizi2002" target="_blank"><i><img src="misskey.png" alt="Meiskey-favicon" width="32" height="32"></i></a></li>
+					<li><a href="https://www.nicovideo.jp/user/49834887" title="niconico eizi2002" target="_blank"><i class="fa fa-play" aria-hidden="true"></i></a></li>
+					<li><a href="https://github.com/eizi2002" title="Github @eizi2002" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+					<li><a href="https://kakuyomu.jp/users/eizi2002" title="kakuyomu" target="_blank"><i class="fa fa-book" aria-hidden="true"></i></a></li>
+					<li><a href="https://eizi2002.slack.com/" title="Slack" target="_blank"><i class="fa fa-slack" aria-hidden="true"></i></a></li>
+					<li><a href="https://eizi2002.skr.jp/contact/" title="Contact" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+					<!--<li><a href="http://leies.sblo.jp/" title="Leies_blog" target="_blank"><i class="fa fa-blog" aria-hidden="true"></i></a></li>-->
+				</ul>
+				<hr>
+				<p class="auto-style1"><a href="leies.html" title="index"><i class="fa fa-user" aria-hidden="true">レイエスの他のアカウント(ブログ)一覧はこちら</i></a></p>
+				<p class="auto-style1"><a href="https://keybase.io/leies_202" title="index"><i class="fa fa-key" aria-hidden="true">keybase(証明?)</i></a></p>
+
+<p class="auto-style1">LastUpdate[2019-05-04 14:12]-令和最初の更新</p>
+<p class="auto-style1">Copyright © 2019-2019 Leies/eizi2002 All Rights Reserved.</p>
+</div>
+</body>
+</html>

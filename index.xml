@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leies</title>
+    <link>https://eizi2002.github.io/</link>
+    <description>Recent content on Leies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 05 May 2019 00:12:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://eizi2002.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leies</title>
+      <link>https://eizi2002.github.io/leies/</link>
+      <pubDate>Sun, 05 May 2019 00:12:00 +0900</pubDate>
+      
+      <guid>https://eizi2002.github.io/leies/</guid>
+      <description>そこら辺でだべってる人間かもしれないし猫かもしれないしミスキストかもしれない。
+ID:Leies_202,eizi2002等
+自己紹介(friends.nicoより) ※アイコンは可愛くても中身はブス男なんですよねこれが。
+これでもヾ(･ω･`；))ﾉ三ヾ((；´･ω･)ﾉ高校生
+二コフレ高等学園2年生
+静岡や浜松市へ来たとか行きたいとかそんな話題出したら食いつきます気をつけましょう((
+ところでうなぎパイ食べます？
+( ´･ω･`)つ【うなぎパイ】
+from:音楽とうなぎの街
+Link Blog(二コフレ日記archive)
+Blog(二コフレ野菜日記archive)
+Twitter</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://eizi2002.github.io/about/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eizi2002.github.io/about/</guid>
+      <description>Hugo使ってどうにか作り出したボロボロなページとでも思っておけば。
+旧ページのデザインに近づけるとか無理。</description>
+    </item>
+    
+    <item>
+      <title>Eizi2002</title>
+      <link>https://eizi2002.github.io/eizi2002/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eizi2002.github.io/eizi2002/</guid>
+      <description>そこら辺の投稿者
+ID:eizi2002等
+お知らせ おそらくfriends.nicoに関与した同人誌に参加する。ただし名義はレイエス。
+今のところやってる ･改造動画等
+･小説執筆
+･ウナ公式アカウントさんの顔文字のまとめ辞書(Una-IME)
+やりたい ･オリジナル曲
+Link Blog
+Twitter</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://eizi2002.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eizi2002.github.io/posts/my-first-post/</guid>
+      <description>Hello-World!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://eizi2002.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eizi2002.github.io/contact/</guid>
+      <description>Contact.auto-style1 {text-align: center;}.auto-style2 {vertical-align: top;}.auto-style3 {font-weight: normal;}@media screen and (max-width:572px) {/*　画面サイズが572px以下はここを読み込む　*/#formWrap {width:90%;margin:0 auto;}table.formTable th, table.formTable td {width:auto;display:block;}table.formTable th {margin-top:5px;border-bottom:0;}input[type=&#34;text&#34;], textarea {width:80%;padding:5px;font-size:110%;display:block;}input[type=&#34;submit&#34;], input[type=&#34;reset&#34;], input[type=&#34;button&#34;] {display:block;width:100%;height:40px;}}#formWrap {width:700px;margin:0 auto;line-height:120%;font-size:90%;}table.</description>
+    </item>
+    
+  </channel>
+</rss>
