@@ -7,15 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 05 May 2019 00:12:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2019 16:23:31 +0900</lastBuildDate>
     
 	<atom:link href="https://eizi2002.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>About</title>
+      <link>https://eizi2002.github.io/about/</link>
+      <pubDate>Sun, 05 May 2019 16:23:31 +0900</pubDate>
+      
+      <guid>https://eizi2002.github.io/about/</guid>
+      <description>このサイトについて Hugoで適当に作ったサイト。
+元は全部HTMLで作ってたが、GitHubのプロフィールを芝生にしたいという野心が芽生えた結果の産物。
+Leies-Profile 臨時情報 恐らく夏コミにfriends.nico(サービス終了)の同人誌が出る。そこに一言参加したのでよかったら見てほしい。
+無論夏コミへは私は一般参加で出る予定だ。文を書いていて気付いたが日は合うのか&amp;hellip;?
+今のところやってる ･自宅鯖でMisskey掘っ建て/運営
+･MovableType使ってブログ
+･申し訳程度の改造したMisskeyBot(いあ)の作成
+やりたい ･Misskey開発へ参加(プルリクとは言わんでもissusとか)
+･もうちょいまともなサイト作成</description>
+    </item>
+    
+    <item>
       <title>Leies</title>
       <link>https://eizi2002.github.io/leies/</link>
-      <pubDate>Sun, 05 May 2019 00:12:00 +0900</pubDate>
+      <pubDate>Sun, 05 May 2019 16:15:50 +0900</pubDate>
       
       <guid>https://eizi2002.github.io/leies/</guid>
       <description>そこら辺でだべってる人間かもしれないし猫かもしれないしミスキストかもしれない。
@@ -33,26 +50,16 @@ Twitter</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://eizi2002.github.io/about/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eizi2002.github.io/about/</guid>
-      <description>Hugo使ってどうにか作り出したボロボロなページとでも思っておけば。
-旧ページのデザインに近づけるとか無理。</description>
-    </item>
-    
-    <item>
       <title>Eizi2002</title>
       <link>https://eizi2002.github.io/eizi2002/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 May 2019 16:15:42 +0900</pubDate>
       
       <guid>https://eizi2002.github.io/eizi2002/</guid>
       <description>そこら辺の投稿者
 ID:eizi2002等
-お知らせ おそらくfriends.nicoに関与した同人誌に参加する。ただし名義はレイエス。
+NEWS おそらくfriends.nicoに関与した同人誌に参加する。ただし名義はレイエス(二コフレ関連の名義はそっちなんでね&amp;hellip;というか創作名義も変えるかもだし)。
 今のところやってる ･改造動画等
-･小説執筆
+･小説執筆(レイエス名義だが一応こっち)
 ･ウナ公式アカウントさんの顔文字のまとめ辞書(Una-IME)
 やりたい ･オリジナル曲
 Link Blog
@@ -60,21 +67,23 @@ Twitter</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://eizi2002.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <title>My Fast Post</title>
+      <link>https://eizi2002.github.io/posts/my-fast-post/</link>
+      <pubDate>Sun, 05 May 2019 16:00:31 +0900</pubDate>
       
-      <guid>https://eizi2002.github.io/posts/my-first-post/</guid>
-      <description>Hello-World!</description>
+      <guid>https://eizi2002.github.io/posts/my-fast-post/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://eizi2002.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>About Hugo</title>
+      <link>https://eizi2002.github.io/about-hugo/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://eizi2002.github.io/contact/</guid>
-      <description>Contact.auto-style1 {text-align: center;}.auto-style2 {vertical-align: top;}.auto-style3 {font-weight: normal;}@media screen and (max-width:572px) {/*　画面サイズが572px以下はここを読み込む　*/#formWrap {width:90%;margin:0 auto;}table.formTable th, table.formTable td {width:auto;display:block;}table.formTable th {margin-top:5px;border-bottom:0;}input[type=&#34;text&#34;], textarea {width:80%;padding:5px;font-size:110%;display:block;}input[type=&#34;submit&#34;], input[type=&#34;reset&#34;], input[type=&#34;button&#34;] {display:block;width:100%;height:40px;}}#formWrap {width:700px;margin:0 auto;line-height:120%;font-size:90%;}table.</description>
+      <guid>https://eizi2002.github.io/about-hugo/</guid>
+      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
+It makes use of a variety of open source projects including:
+ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
     </item>
     
   </channel>
