@@ -3,46 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eizi2002.github.io/en/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eizi2002.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://eizi2002.github.io/cn/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eizi2002.github.io/en/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eizi2002.github.io/en/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eizi2002.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://eizi2002.github.io/cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eizi2002.github.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eizi2002.github.io/en/tags/</loc>
+    <loc>https://eizi2002.github.io/cn/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -51,13 +12,56 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://eizi2002.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="cn"
                 href="https://eizi2002.github.io/cn/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.github.io/cn/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eizi2002.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eizi2002.github.io/en/tags/"
+                href="https://eizi2002.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://eizi2002.github.io/cn/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.github.io/cn/link/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.github.io/cn/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eizi2002.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eizi2002.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://eizi2002.github.io/cn/"
                 />
   </url>
   

@@ -12,6 +12,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="https://eizi2002.github.io/cn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://eizi2002.github.io/about/"
                 />
@@ -28,9 +33,24 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="cn"
+                href="https://eizi2002.github.io/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://eizi2002.github.io/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.github.io/ia/</loc>
+    <lastmod>2019-05-05T16:23:31+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.github.io/misskey/</loc>
+    <lastmod>2019-05-05T16:23:31+09:00</lastmod>
   </url>
   
   <url>
@@ -60,12 +80,21 @@
   </url>
   
   <url>
+    <loc>https://eizi2002.github.io/home/</loc>
+  </url>
+  
+  <url>
     <loc>https://eizi2002.github.io/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://eizi2002.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://eizi2002.github.io/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
