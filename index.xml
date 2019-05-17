@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 05 May 2019 16:23:31 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 19:17:03 +0900</lastBuildDate>
     
 	<atom:link href="https://eizi2002.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Misskey巻(makimis)</title>
+      <link>https://eizi2002.github.io/makimis/</link>
+      <pubDate>Fri, 17 May 2019 19:17:03 +0900</pubDate>
+      
+      <guid>https://eizi2002.github.io/makimis/</guid>
+      <description>About 自宅サーバーで建てられたインスタンスその２(もう一つあるって？あれ論外)
+URL:https://makimis.orz.hm/
+注意事項(大体misskey-orzの説明と同じだけど読もうか) 巻き込みは巻き込みだからこそ巻き込みであってTwitter側が巻き込み人数増やせばいい話なんですよ本当は。(要するに巻き込みがメインなのを忘れないでねって話)
+adminはまともな開発者ではないのでぶっ壊れるリスクはご承知ください。
+上記理由によりセキュリティ信頼性は無いです。 個人情報を置くような真似はやめてください。
+同理由によりパスワードの使いまわしは非推奨です。というかこのサービスに限らずどのサービスでもでもそうです。
+使用者が不快にならないようにご利用ください。
+現状運営がadmin1人なので裁量が個人的裁量になる可能性がある点ご理解ください。
+インスタンス情報 admin:英治
+version:めいめいリポジトリ(=V10派生)使用
+AiBot(めいめいバージョンの改造版)あり
+連絡先:misskey@eizi2002.skr.jp
+いあBotについてはこちら</description>
+    </item>
     
     <item>
       <title>About</title>
