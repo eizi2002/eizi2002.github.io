@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://eizi2002.github.io/</loc>
-    <lastmod>2019-05-17T19:17:03+09:00</lastmod>
+    <lastmod>2019-05-23T16:08:18+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -24,13 +24,51 @@
   </url>
   
   <url>
+    <loc>https://eizi2002.github.io/posts/next/</loc>
+    <lastmod>2019-05-23T16:08:18+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.github.io/posts/</loc>
+    <lastmod>2019-05-23T16:08:18+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.github.io/tags/</loc>
+    <lastmod>2019-05-23T16:08:18+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eizi2002.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://eizi2002.github.io/cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eizi2002.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.github.io/tags/untagged/</loc>
+    <lastmod>2019-05-23T16:08:18+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://eizi2002.github.io/makimis/</loc>
-    <lastmod>2019-05-17T19:17:03+09:00</lastmod>
+    <lastmod>2019-05-21T23:58:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://eizi2002.github.io/about/</loc>
-    <lastmod>2019-05-05T16:23:31+09:00</lastmod>
+    <lastmod>2019-05-21T23:52:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -50,62 +88,27 @@
   
   <url>
     <loc>https://eizi2002.github.io/ia/</loc>
-    <lastmod>2019-05-05T16:23:31+09:00</lastmod>
+    <lastmod>2019-05-09T23:38:05+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://eizi2002.github.io/misskey/</loc>
-    <lastmod>2019-05-05T16:23:31+09:00</lastmod>
+    <lastmod>2019-05-21T23:58:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://eizi2002.github.io/leies/</loc>
-    <lastmod>2019-05-05T16:15:50+09:00</lastmod>
+    <lastmod>2019-05-21T23:58:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://eizi2002.github.io/eizi2002/</loc>
-    <lastmod>2019-05-05T16:15:42+09:00</lastmod>
+    <lastmod>2019-05-21T23:50:52+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://eizi2002.github.io/posts/my-fast-post/</loc>
-    <lastmod>2019-05-05T16:00:31+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eizi2002.github.io/posts/</loc>
-    <lastmod>2019-05-05T16:00:31+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eizi2002.github.io/about-hugo/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eizi2002.github.io/home/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eizi2002.github.io/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eizi2002.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://eizi2002.github.io/cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eizi2002.github.io/tags/"
-                />
+    <lastmod>2019-05-23T15:48:12+09:00</lastmod>
   </url>
   
 </urlset>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 17 May 2019 19:17:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 16:06:49 +0900</lastBuildDate>
     
 	<atom:link href="https://eizi2002.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Next</title>
+      <link>https://eizi2002.github.io/posts/next/</link>
+      <pubDate>Thu, 23 May 2019 16:06:49 +0900</pubDate>
+      
+      <guid>https://eizi2002.github.io/posts/next/</guid>
+      <description>複数記事のテスト用。 テーマがどんどん魔改造されて行ってる気がしなくもない</description>
+    </item>
     
     <item>
       <title>Misskey巻(makimis)</title>
@@ -18,19 +27,7 @@
       <pubDate>Fri, 17 May 2019 19:17:03 +0900</pubDate>
       
       <guid>https://eizi2002.github.io/makimis/</guid>
-      <description>About 自宅サーバーで建てられたインスタンスその2（もう1つあるって？あれ論外）
-URL:https://makimis.orz.hm/
-注意事項（大体misskey-orzの説明と同じだけど読もうか） 巻き込みは巻き込みだからこそ巻き込みであってTwitter側が巻き込み人数増やせばいい話なんですよ本当は。（要するに巻き込みがメインなのを忘れないでねって話）
-adminはまともな開発者ではないのでぶっ壊れるリスクはご承知ください。
-上記理由によりセキュリティ信頼性はないです。 個人情報を置くような真似はやめてください。
-同理由によりパスワードの使いまわしは非推奨です。というかこのサービスに限らずどのサービスでもでもそうです。
-使用者が不快にならないようにご利用ください。
-現状運営がadmin1人なので裁量が個人的裁量になる可能性がある点ご理解ください。
-インスタンス情報 admin:英治
-version:めいめいリポジトリ(=V10派生)使用
-AiBot(めいめいバージョンの改造版)あり
-連絡先:misskey@eizi2002.skr.jp
-いあBotについてはこちら</description>
+      <description>About 自宅サーバーで建てられたインスタンスその2（もう1つあるって？あれ論外） URL:https://makimis.orz.hm/ 注意事項（大体misskey-orzの説明と同じだけど読もうか）</description>
     </item>
     
     <item>
@@ -39,15 +36,7 @@ AiBot(めいめいバージョンの改造版)あり
       <pubDate>Sun, 05 May 2019 16:23:31 +0900</pubDate>
       
       <guid>https://eizi2002.github.io/about/</guid>
-      <description>このサイトについて Hugoで適当に作ったサイト。
-元は全部HTMLで作ってたが、GitHubのプロフィールを芝生にしたいという野心が芽生えた結果の産物。
-Leies-Profile 臨時情報 恐らく夏コミにfriends.nico（サービス終了）の同人誌が出る。そこに一言参加したのでよかったら見てほしい。
-無論夏コミへは私は一般参加で出る予定だ。文を書いていて気付いたが日は合うのか･･･？
-今のところやってる ･自宅鯖でMisskey掘っ建て/運営
-･MovableType使ってブログ
-･申し訳程度の改造したMisskeyBot(いあ)の作成
-やりたい ･Misskey開発へ参加（プルリクとは言わんでもissusとか）
-･もうちょいまともなサイト作成</description>
+      <description>このサイトについて Hugoで適当に作ったサイト。 元は全部HTMLで作ってたが、GitHubのプロフィールを芝生にしたいという野心が芽生えた結</description>
     </item>
     
     <item>
@@ -56,14 +45,7 @@ Leies-Profile 臨時情報 恐らく夏コミにfriends.nico（サービス終�
       <pubDate>Sun, 05 May 2019 16:23:31 +0900</pubDate>
       
       <guid>https://eizi2002.github.io/ia/</guid>
-      <description>About Misskey-orzで稼働している、それ用にセリフ改造した程度の藍Botです。
-URL:https://eizi2002.orz.hm/@ia
-説明書
-独自改造 めいめいリポジトリよりフォーク
-こっちがやった改造はセリフのみ。
-問題点 リモートから数取りゲームに参加できない
-連絡先:misskey@eizi2002.skr.jp
-Misskey-orzついてはこちら</description>
+      <description>About Misskey-orzで稼働している、それ用にセリフ改造した程度の藍Botです。 URL:https://eizi2002.orz.hm/@ia 説明書 独自改造 めいめいリポジトリよりフォーク こっちがやっ</description>
     </item>
     
     <item>
@@ -72,18 +54,7 @@ Misskey-orzついてはこちら</description>
       <pubDate>Sun, 05 May 2019 16:23:31 +0900</pubDate>
       
       <guid>https://eizi2002.github.io/misskey/</guid>
-      <description>About 自宅サーバーで建てられたインスタンス
-URL:https://eizi2002.orz.hm/
-注意事項 adminはまともな開発者ではないのでぶっ壊れるリスクはご承知ください。
-上記理由によりセキュリティ信頼性はないです。 個人情報を置くような真似はやめてください。
-同理由によりパスワードの使いまわしは非推奨です。というかこのサービスに限らずどのサービスでもでもそうです。
-使用者が不快にならないようにご利用ください。
-現状運営がadmin1人なので裁量が個人的裁量になる可能性がある点ご理解ください。
-インスタンス情報 admin:レイエス(eizi2002)
-version:めいめいリポジトリ(=V10派生)使用
-AiBot(めいめいバージョンの改造版)あり
-連絡先:misskey@eizi2002.skr.jp
-いあBotについてはこちら</description>
+      <description>About 自宅サーバーで建てられたインスタンス URL:https://eizi2002.orz.hm/ 注意事項 adminはまともな開発者ではないのでぶっ壊れるリスクはご承知ください。 上記理由によりセキュ</description>
     </item>
     
     <item>
@@ -92,18 +63,7 @@ AiBot(めいめいバージョンの改造版)あり
       <pubDate>Sun, 05 May 2019 16:15:50 +0900</pubDate>
       
       <guid>https://eizi2002.github.io/leies/</guid>
-      <description>そこら辺でだべってる人間かもしれないし猫かもしれないしミスキストかもしれない。
-ID:Leies_202,eizi2002等
-自己紹介（friends.nicoより） ※アイコンは可愛くても中身はブス男なんですよねこれが。
-これでもヾ(･ω･`；))ﾉ三ヾ((；´･ω･)ﾉ高校生
-二コフレ高等学園2年生
-静岡や浜松市へ来たとか行きたいだのそんな話題出したら食いつきます気をつけましょう（（
-ところでうなぎパイ食べます？
-( ´･ω･`)つ【うなぎパイ】
-from:音楽とうなぎの街
-Link Blog(二コフレ日記archive)
-Blog(二コフレ野菜日記archive)
-Twitter</description>
+      <description>そこら辺でだべってる人間かもしれないし猫かもしれないしミスキストかもしれない。 ID:Leies_202,eizi2002等 自己紹介（frie</description>
     </item>
     
     <item>
@@ -112,15 +72,7 @@ Twitter</description>
       <pubDate>Sun, 05 May 2019 16:15:42 +0900</pubDate>
       
       <guid>https://eizi2002.github.io/eizi2002/</guid>
-      <description>そこら辺の投稿者
-ID:eizi2002等
-NEWS おそらくfriends.nicoに関与した同人誌へ参加する。 ただし名義はレイエス（二コフレ関連の名義はそっちなんでねというか創作名義も変えるかもだし）。
-今のところやってる ･改造動画等
-･小説執筆（レイエス名義だが一応こっち）
-･ウナ公式アカウントさんの顔文字のまとめ辞書(Una-IME)
-やりたい ･オリジナル曲
-Link Blog
-Twitter</description>
+      <description>そこら辺の投稿者 ID:eizi2002等 NEWS おそらくfriends.nicoに関与した同人誌へ参加する。 ただし名義はレイエス（二コフレ関連の名</description>
     </item>
     
     <item>
@@ -130,26 +82,6 @@ Twitter</description>
       
       <guid>https://eizi2002.github.io/posts/my-fast-post/</guid>
       <description>あいうええおあお</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>https://eizi2002.github.io/about-hugo/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://eizi2002.github.io/about-hugo/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <link>https://eizi2002.github.io/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eizi2002.github.io/home/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -6,8 +6,21 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>ja-jp</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sun, 05 May 2019 16:00:31 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 23 May 2019 16:06:49 +0900</lastBuildDate>
 		<atom:link href="https://eizi2002.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Next</title>
+			<link>https://eizi2002.github.io/posts/next/</link>
+			<pubDate>Thu, 23 May 2019 16:06:49 +0900</pubDate>
+			
+			<guid>https://eizi2002.github.io/posts/next/</guid>
+			<description>複数記事のテスト用。 テーマがどんどん魔改造されて行ってる気がしなくもない</description>
+			<content type="html"><![CDATA[<p>複数記事のテスト用。</p>
+
+<p>テーマがどんどん魔改造されて行ってる気がしなくもない</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>My Fast Post</title>
