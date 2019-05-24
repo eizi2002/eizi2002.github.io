@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://eizi2002.github.io/</loc>
-    <lastmod>2019-05-23T18:25:13+09:00</lastmod>
+    <lastmod>2019-05-24T17:32:52+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -21,6 +21,11 @@
                 hreflang="ja"
                 href="https://eizi2002.github.io/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.github.io/misskeydip/</loc>
+    <lastmod>2019-05-24T17:32:52+09:00</lastmod>
   </url>
   
   <url>
