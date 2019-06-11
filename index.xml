@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>Next</title>
-      <link>https://eizi2002.github.io/posts/next/</link>
-      <pubDate>Thu, 23 May 2019 16:06:49 +0900</pubDate>
-      
-      <guid>https://eizi2002.github.io/posts/next/</guid>
-      <description>複数記事のテスト用。 テーマがどんどん魔改造されて行ってる気がしなくもない</description>
-    </item>
-    
-    <item>
       <title>Misskey巻(makimis)</title>
       <link>https://eizi2002.github.io/makimis/</link>
       <pubDate>Fri, 17 May 2019 19:17:03 +0900</pubDate>
@@ -85,12 +76,30 @@
     </item>
     
     <item>
-      <title>My Fast Post</title>
-      <link>https://eizi2002.github.io/posts/my-fast-post/</link>
-      <pubDate>Sun, 05 May 2019 16:00:31 +0900</pubDate>
+      <title>friends.nico終了に基づく諸々の件</title>
+      <link>https://eizi2002.github.io/2019/03/29/friendsnico/</link>
+      <pubDate>Thu, 28 Mar 2019 22:50:57 +0000</pubDate>
       
-      <guid>https://eizi2002.github.io/posts/my-fast-post/</guid>
-      <description>あいうええおあお</description>
+      <guid>https://eizi2002.github.io/2019/03/29/friendsnico/</guid>
+      <description>※前置き長いので引越し先の本題だけみたい人はここクリック 前置き こんにちは。 自分のMisskeyインスタンスを(めいめいの圧倒的支援もあり)自</description>
+    </item>
+    
+    <item>
+      <title>結局WordPressからは逃れられなかった話</title>
+      <link>https://eizi2002.github.io/2019/03/25/wordpress/</link>
+      <pubDate>Mon, 25 Mar 2019 09:42:18 +0000</pubDate>
+      
+      <guid>https://eizi2002.github.io/2019/03/25/wordpress/</guid>
+      <description>前提:いろいろ言っていますが、当メインサイトはWordPressに戻すことはないでしょう(普通に面倒くさい) さくらのレンタルサーバーを契約し</description>
+    </item>
+    
+    <item>
+      <title>音街ウナChromeテーマ第二弾</title>
+      <link>https://eizi2002.github.io/2019/03/22/chrome-1/</link>
+      <pubDate>Thu, 21 Mar 2019 16:10:02 +0000</pubDate>
+      
+      <guid>https://eizi2002.github.io/2019/03/22/chrome-1/</guid>
+      <description>動機 音街ウナ公式アカウント様よりとんでもないものが降ってきたため(( V1(正方形ディスプレイ向け)一覧 夜の街 白ワンピ 街路樹のある道 海辺の家(</description>
     </item>
     
   </channel>
