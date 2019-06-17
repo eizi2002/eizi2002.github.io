@@ -57,18 +57,7 @@ AiBot(めいめいバージョンの改造版)あり
       <guid>https://eizi2002.github.io/about/</guid>
       <description>Site-About Hugoで適当に作ったサイト。
 元は全部HTMLで作ってたが、GitHubのプロフィールを芝生にしたいという野心が芽生えた結果の産物。
-Leies-Profile 臨時情報 ｢夏コミ三日目(日曜日)西地区&amp;rdquo;う&amp;rdquo;ブロック-43b【もかんち】さん｣にて、friends.nico（サービス終了）の同人誌が出ます。
-しれっとそこに一言参加したし、そうでなくてもかなりカオスらしいのでよろしければ。
-無論夏コミへは私は一般参加で出る予定ですが残念ながら四日目参戦です。ボカロ優先。
-Leies-About そこら辺でだべってる人間かもしれないし猫かもしれないしミスキストかもしれない。
-ID:Leies_202,eizi2002等
-自己紹介（friends.nicoより） ※アイコンは可愛くても中身はブス男なんですよねこれが。
-これでもヾ(･ω･`；))ﾉ三ヾ((；´･ω･)ﾉ高校生
-二コフレ高等学園2年生
-静岡や浜松市へ来たとか行きたいだのそんな話題出したら食いつきます気をつけましょう（（
-ところでうなぎパイ食べます？
-( ´･ω･`)つ【うなぎパイ】
-from:音楽とうなぎの街
+もっと詳しいプロフィールは→https://eizi2002.skr.jp
 今のところやってる ･自宅鯖でMisskey掘っ建て/運営
 ･MovableType使ってブログ
 ･申し訳程度の改造したMisskeyBot(いあ)の作成
@@ -143,59 +132,6 @@ piapro
 ･このサイト
 ･藍Bot改造されたいあBotをさらにセリフ変更したやつ
 ･Scratch</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://eizi2002.github.io/about.en/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eizi2002.github.io/about.en/</guid>
-      <description>NEWS Probably a friend magazine of friends.nico (the end of the service) appears in the Summer Comic market.Since I participated in a word there, I hope you see it.
-Although I am a general participant, I go.
-Who? eizi2002 is my different handle name
-I am not good at speaking anything except Japanese
-This site also made full use of translation.
-I am sorry if I can not read it.</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>https://eizi2002.github.io/about.cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eizi2002.github.io/about.cn/</guid>
-      <description>通知 comiket的friends.nico的小圈子朋友（服务已经完成）出现在Comiket 96上。
-因为它一次作为一个词参加了。
-是谁? eizi2002是我的第二个名字。
-除了日语外，我不擅长说话
-该网站还充分利用了翻译。
-如果我看不懂，我很抱歉。
-ID：eizi2002，Leies等..
-零江洲-轮廓(从 friends.nico (服务结束)) 你好。
-我是零江洲(Leies)。
-我是高中年级
-我是一个meimei（Github和Misskey：@ mei23）的狂热分子。
-我得到一些HTML5和MovableType。
-我可以在早上或午夜时出现。
-谢谢。
-从:音楽とうなぎの街(音乐和鳗鱼的一个城市)
-是做 ･Misskey在家中安装的服务器上的操作
-･使用MovableType的博客
-･创建一个修改过的MisskeyBot（ia）
-想做 ･参与Misskey开发（问题或其他）
-･创建一个更好的网站</description>
-    </item>
-    
-    <item>
-      <title>链接</title>
-      <link>https://eizi2002.github.io/link.cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eizi2002.github.io/link.cn/</guid>
-      <description>微博
-QQ空间
-哔哩哔哩</description>
     </item>
     
   </channel>
