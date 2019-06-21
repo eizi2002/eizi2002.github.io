@@ -4,9 +4,9 @@ https://keybase.io/leies_202
 
 I hereby claim:
 
-  * I am an admin of https://eizi2002.github.io
+  * I am an admin of https://leies-202.github.io
   * I am leies_202 (https://keybase.io/leies_202) on keybase.
-  * I have a public key ASCfE2lYRwq8NCl6geHOVcMVr6GHiOVFNinFHeNtjN7cRgo
+  * I have a public key with fingerprint 0F07 5FAD 04E2 A849 FC38  5B83 2F93 8C0C F28D 4925
 
 To do so, I am signing this object:
 
@@ -14,39 +14,58 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "01209f136958470abc34297a81e1ce55c315afa18788e5453629c51de36d8cdedc460a",
+      "fingerprint": "0f075fad04e2a849fc385b832f938c0cf28d4925",
       "host": "keybase.io",
-      "kid": "01209f136958470abc34297a81e1ce55c315afa18788e5453629c51de36d8cdedc460a",
+      "key_id": "2f938c0cf28d4925",
+      "kid": "01012aa9352bcb4f54850e4ae951220ce1fe6df0d0c103b273d3ed30d8df4ab9d6b80a",
       "uid": "46a4be2157838b5bb5282723ac36bd19",
       "username": "leies_202"
     },
-    "merkle_root": {
-      "ctime": 1555924795,
-      "hash": "0c6db21b8dbca7c3ecbabffa96e11493f1cd87a60830efa3398b7a9255865109f791cca3b6509c7ddb062ccfb1657d0f9594d6d272131d5f390926f92f92b0a6",
-      "hash_meta": "057b147dc471ee834625ee4f57dbc1ad8ae32d81cac4435cb6bd20c8db3e27c3",
-      "seqno": 5217034
-    },
     "service": {
-      "entropy": "NGlubb/WnjUSWYSQD2S8BHt1",
-      "hostname": "eizi2002.github.io",
+      "hostname": "leies-202.github.io",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "3.2.2"
-  },
-  "ctime": 1555924806,
-  "expire_in": 504576000,
-  "prev": "950dcec77818e571a0c5763043e3388f19b836c8c23bac5c8fe1031cb3936004",
-  "seqno": 8,
+  "ctime": 1561121914,
+  "expire_in": 157680000,
+  "prev": "5cf08f26c164277a8e870104aee9985a5f922be54ab23ad22b5e2d33f8da74d1",
+  "seqno": 34,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnxNpWEcKvDQpeoHhzlXDFa+hh4jlRTYpxR3jbYze3EYKp3BheWxvYWTESpcCCMQglQ3Ox3gY5XGgxXYwQ+M4jxm4NsjCO6xcj+EDHLOTYATEIPgNDppA2xpLJnkorb1Ecw4RW1ZNbnUr3vcLjAd92B3GAgHCo3NpZ8RAZSk8ric+ox/smy0RbyQydzT/aKtNGlf6QxFtBc68R4p8SGonNggW5dAOmkzMa1lN6mW+/Dn++nU9Gy3KvPyRAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGUrO7q0m70iiTlcsGJ3ISGkgK/TwMcwL0dJwkPv2uEWo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMN4AnicbVJtUFRVGF5WkVwg0JqaPqnr4ActdO+599x77moYoCiEjU2Y0EA79+Nc
+uLruLruXRZYvDUVMPsZwmiRTcia0UslyCSg/AEVNNKLApKgsxdgiJyJjahq6l3Km
+H50/55x3nvd5n+d939ORM0yWkMcbaiLGa9NiQy50NhWaciM+95cQoksuJmwlxHo8
+fWGHjL2afb0qEzaCpADJKxTN8hAxHCmIEs0AnhMQhSkJQyjRFBQUgUIcQhgykGYB
+L0FKxjQrI0nGssSwpEBYCUV15mGP26M6NYNWITmoCDLJYCAghlckGkER0UDhaSSR
+kgKQzPAA6on5Lq+RoYsTBS9OUF16TP/Yp+X9D/62bl25IPA0BKIkMgpkECQxI2Ae
+UgCQEqYUzMoKKZMSRdIi4GiZxjJNykhWGEHkZVZE07oLp+kYVmBEDCjIIRqJUBQh
+QIADtCDRrChTvAH0Yo9T2IB1tAOr2GsHJCDKrIQe9qkSNjprWPkvJF6HJOSpWn6h
++I8vt8eluSSXQwfka5rbazMItGK3kVGERfu/XHZRdcp6P/UMH/Z4VZeTsFE6UtJU
+g5yCLEUBiqcYK4E3ulUPtqsGAnIsIvVj1ME+nRJKCokUwEoUywBOHypGnN44vUuY
+5xEUoMIDIOpjFUTdqqy/IQYyTStIFjhGpgjDXYHTRdhovZQm5OmcXjXPKWiFHkyU
+dXXmzDSFWEyzQs3Gopkss6Nvr593WdRUyr33jDm/qo1ZB3cveYcOxh49ltlKpHYv
+WjxKpN50LtyStbDkYVdjD1GatD071JaXUZkZde3m/Us3fb88UH4HWLpme0P6+Za3
+AhUWvnMq6NuWOtufjLKS/ReuTnZOHLK9+/SxgYG2krnduemfRq60X7NmVm3pl3f9
+0n1ub9JEc2PNnyc+mHmeSK9+qq7dsbxfPbuyvegHX8/AxaTLO8bNr+3LealgR1R4
+T/+u3vrBZtObc/K5YDBxXkvi4JW5j90gS+7+5I87Y1Lxma4gF2+t3OGPKws5+3Pf
+3lLzI2na1TUVgY+OjzC9zwz9VqDW7bnSu7KVVZ6vOLLuutB93wSYmL/psNsb/0Ju
+eHAs7uD+jNiOZKG8svjMzgca45bRrTdCYr4ePbHH+btmfmV430hbtENz9C1JOj0O
+xn49EvccPTl4auuQ5Yu1yw4s2hi9q//yqSe2Xgwf+SzBevOUDZ0Me39OcWja5lzf
+hrYVwx+H/fVQ4G0msavsp29G01OebfXX9vXCBfCc+XpDZkcT/d74Kqqk3HGy6+Vb
+u6s/zOpYfTgjuiM7rtR+AF8KfJvdFH3wu6EnF6xNKnJPTko5xKtF+0dW7/zyxUuR
+F9DRNUpi3vGqektE9aEZiwO+E6YfVx32z/P1v5EeN4nrpLCalFumYNrwiHnWVMuK
+kzENFtT8+l3Cg4/mzN9c391OVp0x/w1eH8Cc
+=o7QA
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
