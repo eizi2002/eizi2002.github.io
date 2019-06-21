@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leies</title>
-    <link>https://eizi2002.github.io/</link>
+    <link>https://leies-202.github.io/</link>
     <description>Recent content on Leies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 24 May 2019 17:20:41 +0900</lastBuildDate>
     
-	<atom:link href="https://eizi2002.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://leies-202.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Misskey-dip</title>
-      <link>https://eizi2002.github.io/misskeydip/</link>
+      <link>https://leies-202.github.io/misskeydip/</link>
       <pubDate>Fri, 24 May 2019 17:20:41 +0900</pubDate>
       
-      <guid>https://eizi2002.github.io/misskeydip/</guid>
+      <guid>https://leies-202.github.io/misskeydip/</guid>
       <description>総論 Misskey-orzの方を強くお勧めします(そもそも当スタンスは現状人が増える前提ではありません。)
 About 自宅サーバーでorzと共に建てられたが、通常利用は無謀なインスタンス
 URL:https://eizi2002.dip.jp/
@@ -30,10 +30,10 @@ version:V11(本家)使用 連絡先:misskey@eizi2002.skr.jp</description>
     
     <item>
       <title>Misskey巻(makimis)</title>
-      <link>https://eizi2002.github.io/makimis/</link>
+      <link>https://leies-202.github.io/makimis/</link>
       <pubDate>Fri, 17 May 2019 19:17:03 +0900</pubDate>
       
-      <guid>https://eizi2002.github.io/makimis/</guid>
+      <guid>https://leies-202.github.io/makimis/</guid>
       <description>About 自宅サーバーで建てられたインスタンスその2（もう1つあるって？あれ論外）
 URL:https://makimis.orz.hm/
 注意事項（大体misskey-orzの説明と同じだけど読もうか） 巻き込みは巻き込みだからこそ巻き込みであってTwitter側が巻き込み人数増やせばいい話なんですよ本当は。（要するに巻き込みがメインなのを忘れないでねって話）
@@ -44,17 +44,16 @@ adminはまともな開発者ではないのでぶっ壊れるリスクはご承
 現状運営がadmin1人なので裁量が個人的裁量になる可能性がある点ご理解ください。
 インスタンス情報 admin:英治
 version:めいめいリポジトリ(=V10派生)使用
-AiBot(めいめいバージョンの改造版)あり
 連絡先:misskey@eizi2002.skr.jp
 いあBotについてはこちら</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://eizi2002.github.io/about/</link>
+      <link>https://leies-202.github.io/about/</link>
       <pubDate>Sun, 05 May 2019 16:23:31 +0900</pubDate>
       
-      <guid>https://eizi2002.github.io/about/</guid>
+      <guid>https://leies-202.github.io/about/</guid>
       <description>Site-About Hugoで適当に作ったサイト。
 元は全部HTMLで作ってたが、GitHubのプロフィールを芝生にしたいという野心が芽生えた結果の産物。
 もっと詳しいプロフィールは→https://eizi2002.skr.jp
@@ -67,10 +66,10 @@ AiBot(めいめいバージョンの改造版)あり
     
     <item>
       <title>Misskey-orz</title>
-      <link>https://eizi2002.github.io/ia/</link>
+      <link>https://leies-202.github.io/ia/</link>
       <pubDate>Sun, 05 May 2019 16:23:31 +0900</pubDate>
       
-      <guid>https://eizi2002.github.io/ia/</guid>
+      <guid>https://leies-202.github.io/ia/</guid>
       <description>About Misskey-orzで稼働している、それ用にセリフ改造した程度の藍Botです。
 URL:https://eizi2002.orz.hm/@ia
 説明書
@@ -83,10 +82,10 @@ Misskey-orzついてはこちら</description>
     
     <item>
       <title>Misskey-orz</title>
-      <link>https://eizi2002.github.io/misskey/</link>
+      <link>https://leies-202.github.io/misskey/</link>
       <pubDate>Sun, 05 May 2019 16:23:31 +0900</pubDate>
       
-      <guid>https://eizi2002.github.io/misskey/</guid>
+      <guid>https://leies-202.github.io/misskey/</guid>
       <description>About 自宅サーバーで建てられたインスタンス
 URL:https://eizi2002.orz.hm/
 注意事項 adminはまともな開発者ではないのでぶっ壊れるリスクはご承知ください。
@@ -103,10 +102,10 @@ AiBot(めいめいバージョンの改造版)あり
     
     <item>
       <title>Link</title>
-      <link>https://eizi2002.github.io/link/</link>
+      <link>https://leies-202.github.io/link/</link>
       <pubDate>Sun, 05 May 2019 16:15:50 +0900</pubDate>
       
-      <guid>https://eizi2002.github.io/link/</guid>
+      <guid>https://leies-202.github.io/link/</guid>
       <description>Leies misskey.io
 misskey-orz
 meiskey(めいすきー)
@@ -119,10 +118,10 @@ Twitter(いずれ@Leies_202へ統合したい)</description>
     
     <item>
       <title>Contents</title>
-      <link>https://eizi2002.github.io/contents/</link>
+      <link>https://leies-202.github.io/contents/</link>
       <pubDate>Sun, 05 May 2019 16:15:42 +0900</pubDate>
       
-      <guid>https://eizi2002.github.io/contents/</guid>
+      <guid>https://leies-202.github.io/contents/</guid>
       <description>音楽(適当) SoundCloud
 piapro
 動画 niconico
