@@ -3,81 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://leies-202.github.io/en/about/</loc>
+    <loc>https://me.lei202.com/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://leies-202.github.io/about/"
+                href="https://me.lei202.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://leies-202.github.io/cn/about/"
+                href="https://me.lei202.com/cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leies-202.github.io/en/about/"
+                href="https://me.lei202.com/en/about/"
                 />
   </url>
   
   <url>
-    <loc>https://leies-202.github.io/en/categories/</loc>
+    <loc>https://me.lei202.com/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://leies-202.github.io/cn/categories/"
+                href="https://me.lei202.com/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://leies-202.github.io/categories/"
+                href="https://me.lei202.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leies-202.github.io/en/categories/"
+                href="https://me.lei202.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://leies-202.github.io/en/</loc>
+    <loc>https://me.lei202.com/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://leies-202.github.io/"
+                href="https://me.lei202.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://leies-202.github.io/cn/"
+                href="https://me.lei202.com/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leies-202.github.io/en/"
+                href="https://me.lei202.com/en/"
                 />
   </url>
   
   <url>
-    <loc>https://leies-202.github.io/en/tags/</loc>
+    <loc>https://me.lei202.com/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://leies-202.github.io/cn/tags/"
+                href="https://me.lei202.com/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://leies-202.github.io/tags/"
+                href="https://me.lei202.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leies-202.github.io/en/tags/"
+                href="https://me.lei202.com/en/tags/"
                 />
   </url>
   
