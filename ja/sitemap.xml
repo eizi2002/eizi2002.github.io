@@ -8,13 +8,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="cn"
-                href="https://me.lei202.com/cn/"
+                hreflang="en"
+                href="https://me.lei202.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://me.lei202.com/en/"
+                hreflang="zh-hans"
+                href="https://me.lei202.com/zh-hans/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -43,8 +43,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="cn"
-                href="https://me.lei202.com/cn/about/"
+                hreflang="zh-hans"
+                href="https://me.lei202.com/zh-hans/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -68,8 +68,8 @@
     <lastmod>2019-05-05T16:15:50+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="cn"
-                href="https://me.lei202.com/cn/link/"
+                hreflang="zh-hans"
+                href="https://me.lei202.com/zh-hans/link/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -88,13 +88,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="cn"
-                href="https://me.lei202.com/cn/categories/"
+                hreflang="en"
+                href="https://me.lei202.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://me.lei202.com/en/categories/"
+                hreflang="zh-hans"
+                href="https://me.lei202.com/zh-hans/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -108,13 +108,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="cn"
-                href="https://me.lei202.com/cn/tags/"
+                hreflang="en"
+                href="https://me.lei202.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://me.lei202.com/en/tags/"
+                hreflang="zh-hans"
+                href="https://me.lei202.com/zh-hans/tags/"
                 />
     <xhtml:link
                 rel="alternate"
