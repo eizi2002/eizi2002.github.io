@@ -1,4 +1,4 @@
-# lei202.com
+# leies-202.github.io
 レイエスのサイト。
 
 [Misskey](https://misskey.lei202.com/@lei202/)
